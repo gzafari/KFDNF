@@ -1,0 +1,1 @@
+Option data is obtained from OptionMetric and converted to risk-neutral moments using Bakshi et al (2003).
